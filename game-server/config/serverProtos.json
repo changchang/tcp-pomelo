@@ -1,0 +1,5 @@
+{
+  "onHey" : {
+    "required string content" : 1
+  }
+}

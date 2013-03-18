@@ -1,0 +1,9 @@
+{
+    "name":"tcp-pomelo",
+    "version":"0.0.1",
+    "private":false,
+    "dependencies":{
+        "pomelo":"0.3.1"
+    }
+}
+

@@ -1,0 +1,5 @@
+{
+  "connector.helloHandler.hello" : {
+    "required string msg" : 1
+  }
+}
