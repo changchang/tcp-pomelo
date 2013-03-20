@@ -3,7 +3,7 @@
     "version":"0.0.1",
     "private":false,
     "dependencies":{
-        "pomelo":"0.3.3"
+        "pomelo":"0.3.4"
     }
 }
 
