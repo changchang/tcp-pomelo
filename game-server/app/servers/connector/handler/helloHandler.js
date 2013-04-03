@@ -30,3 +30,6 @@ Handler.prototype.hi = function(msg, session, next) {
   next(null, {msg: 'hi~~'});
 };
 
+Handler.prototype.echo = function(msg, session, next) {
+  next(null, {body: msg.body});
+};
